@@ -1,4 +1,6 @@
-# Amazon Sales Data Analysis Dashboard Report  
+# Amazon Sales Data Analysis Dashboard (Part II)
+
+This is a continuation of the Part I
 
 ## 📊 Overview  
 This Tableau dashboard provides an in-depth analysis of Amazon sales data, showcasing insights into revenue, customer spending patterns, product category trends, and state-wise performance. The visualizations aim to assist in understanding business trends and making data-driven decisions.  
@@ -63,4 +65,6 @@ This Tableau dashboard provides an in-depth analysis of Amazon sales data, showc
 
 ---
 
-This dashboard demonstrates the power of Tableau in delivering actionable insights by leveraging tools like filters dynamic and interactive visualizations, and advanced charts. It provides a foundation for data-driven decision-making and strategic business planning.  
+This dashboard demonstrates the power of Tableau in delivering actionable insights by leveraging tools like filters dynamic and interactive visualizations, and advanced charts. It provides a foundation for data-driven decision-making and strategic business planning.
+
+Link to the dashboard hosted on Tableau Public: https://public.tableau.com/shared/DGM6JYYDD?:display_count=n&:origin=viz_share_link
