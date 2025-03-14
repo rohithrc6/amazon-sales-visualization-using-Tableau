@@ -64,7 +64,6 @@ This Tableau dashboard provides an in-depth analysis of Amazon sales data, showc
 4. **State Performance:** Revenue distribution reveals high-performing regions, aiding in market targeting strategies.
 
 ✅ State-Wise Revenue Performance
-
 📌 Insight: California, Texas, and Florida generate the highest revenue, while certain central states have lower sales.
 🔹 Action: Implement targeted marketing strategies and optimize logistics in underperforming states.
 
