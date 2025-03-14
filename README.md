@@ -67,18 +67,21 @@ This Tableau dashboard provides an in-depth analysis of Amazon sales data, showc
 📌 Insight: California, Texas, and Florida generate the highest revenue, while certain central states have lower sales.  
 🔹 Action: Implement targeted marketing strategies and optimize logistics in underperforming states.
 
-✅ Top-Selling Product Categories
-📌 Insight: Books, pet food, and nutritional supplements are the highest revenue-generating categories.
-🔹 Action: Focus inventory and promotions on these products while reassessing underperforming ones.
-✅ Customer Lifetime Value (LTV) Segmentation
-📌 Insight: High-value customers contribute significantly more to revenue.
-🔹 Action: Introduce loyalty programs and personalized offers to retain them.
-✅ Month-over-Month (MoM) Growth Trends
-📌 Insight: March and September show the highest revenue growth, while May and July have declined.
-🔹 Action: Launch promotional campaigns in slow months to stabilize sales.
-✅ Yearly Revenue Trends
-📌 Insight: Revenue peaked in 2020 but has stabilized in recent years.
-🔹 Action: Analyze external factors and optimize sales strategies for continued growth.
+✅ Top-Selling Product Categories  
+📌 Insight: Books, pet food, and nutritional supplements are the highest revenue-generating categories.  
+🔹 Action: Focus inventory and promotions on these products while reassessing underperforming ones.  
+
+✅ Customer Lifetime Value (LTV) Segmentation  
+📌 Insight: High-value customers contribute significantly more to revenue.  
+🔹 Action: Introduce loyalty programs and personalized offers to retain them.  
+
+✅ Month-over-Month (MoM) Growth Trends  
+📌 Insight: March and September show the highest revenue growth, while May and July have declined.  
+🔹 Action: Launch promotional campaigns in slow months to stabilize sales.  
+
+✅ Yearly Revenue Trends  
+📌 Insight: Revenue peaked in 2020 but has stabilized in recent years.  
+🔹 Action: Analyze external factors and optimize sales strategies for continued growth.  
 
 
 ---
