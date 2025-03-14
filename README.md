@@ -61,10 +61,28 @@ This Tableau dashboard provides an in-depth analysis of Amazon sales data, showc
 1. **Revenue Trends:** Weekends dominate sales, contributing 73% of the total revenue.  
 2. **Customer Analysis:** A small group of customers drives significant revenue, emphasizing the importance of customer retention.  
 3. **Product Category Performance:** Consistent demand for books and electronics highlights their popularity across years.  
-4. **State Performance:** Revenue distribution reveals high-performing regions, aiding in market targeting strategies.  
+4. **State Performance:** Revenue distribution reveals high-performing regions, aiding in market targeting strategies.
+
+✅ State-Wise Revenue Performance
+📌 Insight: California, Texas, and Florida generate the highest revenue, while certain central states have lower sales.
+🔹 Action: Implement targeted marketing strategies and optimize logistics in underperforming states.
+✅ Top-Selling Product Categories
+📌 Insight: Books, pet food, and nutritional supplements are the highest revenue-generating categories.
+🔹 Action: Focus inventory and promotions on these products while reassessing underperforming ones.
+✅ Customer Lifetime Value (LTV) Segmentation
+📌 Insight: High-value customers contribute significantly more to revenue.
+🔹 Action: Introduce loyalty programs and personalized offers to retain them.
+✅ Month-over-Month (MoM) Growth Trends
+📌 Insight: March and September show the highest revenue growth, while May and July have declined.
+🔹 Action: Launch promotional campaigns in slow months to stabilize sales.
+✅ Yearly Revenue Trends
+📌 Insight: Revenue peaked in 2020 but has stabilized in recent years.
+🔹 Action: Analyze external factors and optimize sales strategies for continued growth.
+
 
 ---
 
 This dashboard demonstrates the power of Tableau in delivering actionable insights by leveraging tools like filters dynamic and interactive visualizations, and advanced charts. It provides a foundation for data-driven decision-making and strategic business planning.
 
-[Tableau Dashboard](https://public.tableau.com/app/profile/rohith.challa/viz/AmazonSalesDataAnalysis_17390428964680/MainDashboard)
+[Tableau Dashboard I](https://public.tableau.com/app/profile/rohith.challa/viz/AmazonSalesDataAnalysis_17390428964680/MainDashboard)
+[Tableau Dashboard II](https://public.tableau.com/app/profile/rohith.challa/viz/Sales_17417187861830/SalesDashboard?publish=yes)
