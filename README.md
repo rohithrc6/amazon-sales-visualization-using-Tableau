@@ -86,7 +86,7 @@ This Tableau dashboard provides an in-depth analysis of Amazon sales data, showc
 
 ---
 
-This dashboard demonstrates the power of Tableau in delivering actionable insights by leveraging tools like filters dynamic and interactive visualizations, and advanced charts. It provides a foundation for data-driven decision-making and strategic business planning.
+These dashboards demonstrate the power of Tableau in delivering actionable insights by leveraging tools like filters dynamic and interactive visualizations, and advanced charts. It provides a foundation for data-driven decision-making and strategic business planning.
 
 [Tableau Dashboard I](https://public.tableau.com/app/profile/rohith.challa/viz/AmazonSalesDataAnalysis_17390428964680/MainDashboard)  
 [Tableau Dashboard II](https://public.tableau.com/app/profile/rohith.challa/viz/Sales_17417187861830/SalesDashboard?publish=yes)
