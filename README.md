@@ -1,11 +1,11 @@
 # Amazon Sales Data Analysis Dashboard (Part II)
 
+This is a continuation of the project [Amazon Sales and Basket Analysis Using MySQL and Python (Part - I)](https://github.com/rohithrc6/amazon-sales-analysis-using-MySQL?tab=readme-ov-file#amazon-purchases-analysis-using-mysql-part---i)
+
 ![image](https://github.com/user-attachments/assets/6df3aa3c-aef0-44ee-aa29-4415df09001d)
 
 ![image](https://github.com/user-attachments/assets/0e74b203-3385-4b41-8ffd-f038147b3530)
 
-
-This is a continuation of the project [Amazon Sales and Basket Analysis Using MySQL and Python (Part - I)](https://github.com/rohithrc6/amazon-sales-analysis-using-MySQL?tab=readme-ov-file#amazon-purchases-analysis-using-mysql-part---i)
 
 ## 📊 Overview  
 This Tableau dashboard provides an in-depth analysis of Amazon sales data, showcasing insights into revenue, customer spending patterns, product category trends, and state-wise performance. The visualizations aim to assist in understanding business trends and making data-driven decisions.  
